@@ -11,7 +11,7 @@ Download and install the lib:
 
 ## API tutorial
 
-See otpclientlib/demo.py for a minimal example:
+See [otpclientlib/demo.py](https://github.com/mecatran/otp-client-lib/blob/master/otpclientlib/demo.py) for a minimal example:
 
 ```python
 from otpclientlib.otpclient import OtpServer
